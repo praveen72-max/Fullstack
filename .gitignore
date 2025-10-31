@@ -1,0 +1,18 @@
+# Node / React
+node_modules/
+build/
+dist/
+.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# System files
+.DS_Store
